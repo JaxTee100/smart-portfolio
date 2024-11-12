@@ -2,7 +2,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import Typical from 'react-typical';
 import { Typewriter } from 'react-simple-typewriter'
 
 const ProfileSection = () => {
